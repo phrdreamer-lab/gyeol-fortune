@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "skills": {
+    "naming-house": {
+      "source": "NomaDamas/k-skill",
+      "sourceType": "github",
+      "skillPath": "naming-house/SKILL.md",
+      "computedHash": "7dc9a1e354b2d038983bdfb8a5ae8b491d7f5cf401c63b3e266a8442892ac026",
+      "installMode": "copy"
+    },
+    "saju-fortune": {
+      "source": "NomaDamas/k-skill",
+      "sourceType": "github",
+      "skillPath": "saju-fortune/SKILL.md",
+      "computedHash": "e0ca2b231284b1864a03e162bb84e15e87b1070f13ee0d39fd86739481debfcb",
+      "installMode": "copy"
+    }
+  }
+}
